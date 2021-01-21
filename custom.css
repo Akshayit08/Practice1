@@ -1,0 +1,81 @@
+.bodyDiv{
+    background-color: black;
+    margin: 0;
+}
+.commonBg{
+    background-color: cyan;
+}
+.floatR{
+    float: right
+}
+.floatL{
+    float: left
+}
+.marR27{
+    margin-right: 27px;
+}
+.marL27{
+    margin-left: 27px;
+}
+.tophead{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+}
+.parentElem{
+    background-color: white;
+    position: relative;
+    width: 80%;
+    height: 700px;
+    margin: auto;
+}
+
+.secondColdiv1{
+    width: 35%;
+    background-color: aqua;
+    height: 100px;
+    margin: auto;
+}
+
+.secondColdiv2{
+    width: 10%;
+    background-color: aqua;
+    height: 20px;
+    margin: 10px auto 20px auto;
+}
+
+.thirdColParent{
+    margin: auto;
+    width: 92%;
+    height: 350px;
+    background-color: aqua;
+}
+
+.thirdColParent .first{
+    width: 23%;
+    height: 305px;
+    display: inline-block;
+    margin: 22px 10px 22px 20px;
+}
+
+.first p{
+    margin: 15px 0px 30px 0px;
+    display: block;
+    height: 21px;
+    background-color: #a25b5b;
+}
+
+.thirdColParent .second{
+    display: inline-block;
+    height: 313px;
+    padding: 18px 0px;
+    width: 71%;
+}
+
+.secondSubChild{
+    display: inline-block;
+    width: 50%;
+    height: 50px;
+    margin: 4px 2px 2px 0px;
+    background-color: #ab5757;
+}
